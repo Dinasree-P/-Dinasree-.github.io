@@ -1,34 +1,42 @@
 ## Welcome to My website
 
-You can use the [editor on GitHub](https://github.com/Dinasree/-Dinasree-.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+World Of Quotes✨✨
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Quote of the day
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Quote of the Day
+“The same boiling water that softens the potato hardens the egg. It’s what you’re made of. Not the circumstances.” – Unknown
+“If we have the attitude that it’s going to be a great day it usually is.” – Catherine Pulsifier
+“You can either experience the pain of discipline or the pain of regret. The choice is yours.”  – Unknown
+“Impossible is just an opinion.” – Paulo Coelho
+“Your passion is waiting for your courage to catch up.” – Isabelle Lafleche
+“Magic is believing in yourself. If you can make that happen, you can make anything happen.” – Johann Wolfgang Von Goethe
+“If something is important enough, even if the odds are stacked against you, you should still do it.” – Elon Musk
+“Hold the vision, trust the process.” – Unknown
+“Don’t be afraid to give up the good to go for the great.” – John D. Rockefeller
+“People who wonder if the glass is half empty or full miss the point. The glass is refillable.” – Unknown
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+
+
+
+
+
+
+
+![IMG_20210404_124457_348](https://user-images.githubusercontent.com/80672865/115113046-ebd5a700-9fa5-11eb-8ed3-68980525fe94.jpg)
+
+ Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dinasree/-Dinasree-.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
