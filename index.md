@@ -6,9 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Quote of the day
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
+
 Quote of the Day
 “The same boiling water that softens the potato hardens the egg. It’s what you’re made of. Not the circumstances.” – Unknown
 “If we have the attitude that it’s going to be a great day it usually is.” – Catherine Pulsifier
@@ -21,7 +21,7 @@ Quote of the Day
 “Don’t be afraid to give up the good to go for the great.” – John D. Rockefeller
 “People who wonder if the glass is half empty or full miss the point. The glass is refillable.” – Unknown
 
-
+```markdown
 
 
 
